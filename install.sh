@@ -2,7 +2,7 @@
 
 if [ $# == 1 ]; then
 	if [ ! -d $1 ]; then
-		mkdir $1
+		mkdir -p $1
 	fi
 	repository=$(pwd)
 	cd $1
