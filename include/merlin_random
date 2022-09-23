@@ -1,0 +1,7 @@
+#ifndef MERLIN_RANDOM
+#define MERLIN_RANDOM
+
+#include <merlin_random.hpp>
+
+#endif
+
